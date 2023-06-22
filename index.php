@@ -7,7 +7,7 @@
 </head>
 <body>
   <h2>Superman</h2>
-  <h2>Linterna Verde</h2>
+  <h2>Linterna roja</h2>
   <h2>Flash</h2>
   <h2>Batman</h2>
   <h2>Mujer maravilla</h2>
